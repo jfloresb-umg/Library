@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josef\\OneDrive\\Documentos\\NetBeansProjects\\Library\\DataBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josef\\OneDrive\\Documentos\\NetBeansProjects\\Library\\DataBase\\CreateDB.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CreateDB.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateDB.sql - (local).LibraryDB (ATLAS\\josef (62))",
+              "DocumentMoniker": "C:\\Users\\josef\\OneDrive\\Documentos\\NetBeansProjects\\Library\\DataBase\\CreateDB.sql",
+              "RelativeDocumentMoniker": "CreateDB.sql",
+              "ToolTip": "C:\\Users\\josef\\OneDrive\\Documentos\\NetBeansProjects\\Library\\DataBase\\CreateDB.sql - (local).LibraryDB (ATLAS\\josef (62))",
+              "RelativeToolTip": "CreateDB.sql - (local).LibraryDB (ATLAS\\josef (62))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-02T20:15:18.34Z",
+              "EditorCaption": " - (local).LibraryDB (ATLAS\\josef (62))"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
