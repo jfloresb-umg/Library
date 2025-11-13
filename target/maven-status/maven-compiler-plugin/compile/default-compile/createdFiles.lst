@@ -1,0 +1,17 @@
+com\library\model\Journal.class
+com\library\controller\LibraryController.class
+com\library\dao\UserDAO.class
+com\library\dao\ReturnDAO.class
+com\library\model\Student.class
+com\library\model\Thesis.class
+com\library\model\Book.class
+com\library\model\Material.class
+com\library\dao\LoanDAO.class
+com\library\model\Return.class
+com\library\model\User.class
+com\library\service\ConsoleMenu.class
+com\library\model\Professor.class
+com\library\app\Main.class
+com\library\model\Loan.class
+com\library\dao\ConnectionDB.class
+com\library\dao\MaterialDAO.class

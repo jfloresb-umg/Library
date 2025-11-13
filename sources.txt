@@ -1,0 +1,17 @@
+C:\Users\josef\OneDrive\Documentos\NetBeansProjects\Library\src\main\java\com\library\app\Library.java
+C:\Users\josef\OneDrive\Documentos\NetBeansProjects\Library\src\main\java\com\library\controller\LibraryController.java
+C:\Users\josef\OneDrive\Documentos\NetBeansProjects\Library\src\main\java\com\library\dao\ConnectionDB.java
+C:\Users\josef\OneDrive\Documentos\NetBeansProjects\Library\src\main\java\com\library\dao\LoanDAO.java
+C:\Users\josef\OneDrive\Documentos\NetBeansProjects\Library\src\main\java\com\library\dao\MaterialDAO.java
+C:\Users\josef\OneDrive\Documentos\NetBeansProjects\Library\src\main\java\com\library\dao\ReturnDAO.java
+C:\Users\josef\OneDrive\Documentos\NetBeansProjects\Library\src\main\java\com\library\dao\UserDAO.java
+C:\Users\josef\OneDrive\Documentos\NetBeansProjects\Library\src\main\java\com\library\model\Book.java
+C:\Users\josef\OneDrive\Documentos\NetBeansProjects\Library\src\main\java\com\library\model\Journal.java
+C:\Users\josef\OneDrive\Documentos\NetBeansProjects\Library\src\main\java\com\library\model\Loan.java
+C:\Users\josef\OneDrive\Documentos\NetBeansProjects\Library\src\main\java\com\library\model\Material.java
+C:\Users\josef\OneDrive\Documentos\NetBeansProjects\Library\src\main\java\com\library\model\Professor.java
+C:\Users\josef\OneDrive\Documentos\NetBeansProjects\Library\src\main\java\com\library\model\Return.java
+C:\Users\josef\OneDrive\Documentos\NetBeansProjects\Library\src\main\java\com\library\model\Student.java
+C:\Users\josef\OneDrive\Documentos\NetBeansProjects\Library\src\main\java\com\library\model\Thesis.java
+C:\Users\josef\OneDrive\Documentos\NetBeansProjects\Library\src\main\java\com\library\model\User.java
+C:\Users\josef\OneDrive\Documentos\NetBeansProjects\Library\src\main\java\com\library\service\ConsoleMenu.java
